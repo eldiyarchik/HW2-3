@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_3_fragment">3 fragment</string>
+    <string name="_2_fragment">2 fragment</string>
+    <string name="_4_fragment">4 fragment</string>
+    <string name="_1_fragment">1 FRAGMENT</string>
+    <string name="it_s_5_fragment">It\'s 5 fragment</string>
+</resources>
